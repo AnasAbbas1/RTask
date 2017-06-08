@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "7371bd0db221ddaa0d0193449a41d93f"
+build_time: [550261446, 467665000]
+inputs:
+  "/Users/anasabbas/Downloads/customCell/customCell/ViewController.swift": [550253106, 0]
+  "/Users/anasabbas/Downloads/customCell/customCell/File.swift": [9223372036854775807, 0]
+  "/Users/anasabbas/Downloads/customCell/customCell/AppDelegate.swift": [527955556, 0]
+  "/Users/anasabbas/Downloads/customCell/customCell/ViewControllerTableViewCell.swift": [550253034, 0]
